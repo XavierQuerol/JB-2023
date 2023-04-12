@@ -6,7 +6,7 @@
 
 ### Analysis
 - analysis.ipynb --> Pandas Profiling of the Datasets.
-- comparison.html --> Report comparison of train and test datasets. You can see an overview [here](https://htmlpreview.github.io/?https://github.com/XavierQuerol/JB-2023/blob/main/comparison.html).
+- comparison.html --> Report comparison of train and test datasets. You can see an overview [here](https://htmlpreview.github.io/?https://github.com/XavierQuerol/JB-2023/blob/main/comparison.html). It helps us to understand the two datasets. All the attributes follow the same distributions.
       
 ### Model
 - best_th_function.py --> Function to find the best threshold for the classification model and the data.
