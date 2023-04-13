@@ -11,7 +11,7 @@
 ### Model
 - best_th_function.py --> Function to find the best threshold for the classification model and the data.
 - plots.ipynb --> Function to plot PR Curve and best threshold.
-- xgboost.ipynb --> Code to find the best model and best parameters. The best model found is xgboost without giving weights to the target.
+- xgboost.ipynb --> Code to find the best model and best parameters. The best model found is xgboost without giving weights to the target and predicting the best threshold to maximize f1-macro.
 
 ### Result
 - predictions.json --> Attrition_Flag predictions.
